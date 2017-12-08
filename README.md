@@ -2,11 +2,11 @@
 
 Collection of bash scripts
 
-connected.sh
+## connected.sh
 Checks for connected computers
 
-segregate.sh
+## segregate.sh
 Filters column data file based on condition
 
-youtube.sh
+## youtube.sh
 Downloads movie from youtube
